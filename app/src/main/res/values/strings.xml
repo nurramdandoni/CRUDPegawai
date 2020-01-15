@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CRUDPegawai</string>
+    <string name="title_activity_tampil_semua_pegawai">TampilSemuaPegawai</string>
+</resources>
